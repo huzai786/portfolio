@@ -180,23 +180,23 @@ button:focus {
   border-radius: 5px;
   background-origin: border-box;
   background-clip: content-box, border-box;
-  background-image: linear-gradient(to right, #4458dc 0%, #854fee 100%), radial-gradient(circle at top left, #4458dc, #854fee);
+  background-image: linear-gradient(to right, #1673ff 0%, #4272f7 100%), radial-gradient(circle at top left, #1673ff, #4272f7);
   border: double 2px transparent;
-  box-shadow: 0px 10px 30px rgba(118, 85, 225, 0.3); }
+  box-shadow: 0px 10px 30px rgba(71, 129, 255, 0.548); }
   .primary_btn span {
     padding: 0 42px; }
   .primary_btn.tr-bg {
-    background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #4458dc, #854fee);
+    background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #4458dc, #4f81ee);
     border: 2px solid transparent;
     color: #222222;
     box-shadow: none; }
     .primary_btn.tr-bg:hover {
-      background-image: linear-gradient(to right, #4458dc 0%, #854fee 100%), radial-gradient(circle at top left, #4458dc, #854fee);
+      background-image: linear-gradient(to right, #1673ff 0%, #4272f7 100%), radial-gradient(circle at top left, #1673ff, #4272f7);
       border: double 2px transparent;
       color: #ffffff;
-      box-shadow: 0px 10px 30px rgba(118, 85, 225, 0.3); }
+      box-shadow: 0px 10px 30px rgba(28, 83, 233, 0.555); }
   .primary_btn:hover {
-    background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #4458dc, #854fee);
+    background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #4458dc, #377dff);
     border: 2px solid #854fee;
     color: #222222;
     box-shadow: none;
@@ -3291,13 +3291,13 @@ h6 {
           .footer_area .footer_social a i {
             font-size: 25px; } }
         .footer_area .footer_social a i:hover {
-          color: #854fee; }
+          color: #377af7; }
   .footer_area .footer_bottom {
     text-align: center; }
     .footer_area .footer_bottom p {
       margin-bottom: 0; }
     .footer_area .footer_bottom a {
-      color: #854fee; }
+      color: #2f44ff; }
 
 /* End Footer Area css
 ============================================================================================ */
